@@ -1,0 +1,77 @@
+{
+  "users": [
+    {
+      "id": "2_RVrxDxKc02dqCJsLZOo",
+      "username": "yusuff_dev",
+      "email": "yusuffdeveloper@gmail.com",
+      "phone": "8977306676",
+      "password": "1234"
+    },
+    {
+      "id": "BJ6Pb0zaLeV3OaOUSOP8J",
+      "username": "zabihullox",
+      "email": "zabi@gmail.com",
+      "phone": "909336100",
+      "password": "4321"
+    },
+    {
+      "username": "13.bekhruz",
+      "email": "bekhruz@gmail.com",
+      "phone": "977306676",
+      "password": "1243",
+      "added": "2024-09-28T14:57:21.802Z",
+      "id": "1GbFwI_qQJu2zAKqc95Iv"
+    },
+    {
+      "username": "ulug'bek",
+      "email": "ulug'bek@gmail.com",
+      "phone": "7778888",
+      "password": "4213",
+      "added": "2024-09-30T13:36:00.843Z",
+      "id": "aff3"
+    },
+    {
+      "username": "javohir",
+      "email": "javohir@gmail.com",
+      "phone": "1122111",
+      "password": "11211",
+      "added": "2024-09-28T14:47:24.418Z",
+      "id": "39cf"
+    }
+  ],
+  "books": [
+    {
+      "id": "c956",
+      "title": "Alchemist",
+      "author": "Paulo Coelho",
+      "year": "1988",
+      "price": "6.5",
+      "img": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg",
+      "added": "2024-09-28T15:46:08.592Z"
+    },
+    {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "year": "2018",
+      "price": "6",
+      "img": "https://m.media-amazon.com/images/I/81YkqyaFVEL._AC_UF1000,1000_QL80_.jpg",
+      "id": "4fa4"
+    },
+    {
+      "title": "Iskanja",
+      "author": "Omina Shenliko'g'li",
+      "year": "2020",
+      "price": "7",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5FJFMNHbLN0efAhF2qiXB4WDvvjR0NAJwQ&s",
+      "id": "9458"
+    },
+    {
+      "title": "Deep Work",
+      "author": "Cal Newport",
+      "year": "2016",
+      "price": "6",
+      "img": "https://images.squarespace-cdn.com/content/v1/58b045e1725e25829e8a701c/1550878312553-EZJM6RAT86BETQ3K61ST/deep-work-cal-newport-cover.jpg",
+      "id": "1df2"
+    }
+  ]
+}
